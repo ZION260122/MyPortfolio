@@ -9,7 +9,7 @@ export const Bio = {
     "I am a dynamic and adaptable professional, driven by a passion for continuous learning and excellence. Committed to delivering top-tier results, I approach every challenge with enthusiasm and a growth mindset, ready to contribute meaningfully and achieve remarkable outcomes.",
   github: "https://github.com/ZION260122",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://drive.google.com/drive/quota",
   linkedin: "https://www.linkedin.com/in/utkarsh-vashishtha/",
   insta: "https://www.instagram.com/utkar_sh3038/",
 };
