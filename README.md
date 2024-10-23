@@ -1,7 +1,7 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
-### Weblink: [Live Website]([https://my-portfolio-liard-kappa-41.vercel.app](https://my-portfolio-liard-kappa-41.vercel.app/)/)
+### Weblink: [Live Website]([https://my-portfolio-liard-kappa-41.vercel.app/])
 
 ## Table of Contents
 - [Introduction](#introduction)
