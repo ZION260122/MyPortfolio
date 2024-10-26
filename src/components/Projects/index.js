@@ -26,6 +26,12 @@ const Projects = ({openModal,setOpenModal}) => {
             :
             <ToggleButton value="web app" onClick={() => setToggle('web app')}>Frontend</ToggleButton>
           }
+          <Divider />
+          {toggle === 'Mern App' ?
+            <ToggleButton active value="Mern App" onClick={() => setToggle('Mern App')}>Mern</ToggleButton>
+            :
+            <ToggleButton value="Mern App" onClick={() => setToggle('Mern App')}>Mern</ToggleButton>
+          }
         </ToggleButtonGroup>
         <CardContainer>
           {toggle === 'all' && projects

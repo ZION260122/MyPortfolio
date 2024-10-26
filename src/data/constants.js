@@ -132,17 +132,21 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAqFBMVEVHcEz9/vz////////////////8/////v/////////////+//////////////+Y7+Eq0NxMwdRyq9f///+L1uAOtMMrncoliL6MsNT0/P1zv9k6i8BBeLgxbrSZo89EYbBLT6mRhMBKPqKZxuYjtdAPo8j///+G9c9t9MUA7qRIGJl4jcRT8rwA2LEJx7gHi9BileYnjNUjeNw347l23dEYY+CQru9ae+2zE/zOAAAAJ3RSTlMAAjyIw+j//2nd/yXBUPn/////Jf///////////////////////4encaYqAAABf0lEQVR4AWSShaKDMAxFi6WQuePO3PX//+y1ad80G3rIjbJ/M0zLdoA7tmUa7NMM10NhnA7P/cCtNnIyycS53XqxDueAT+OCdztPJr/v9QeDwZAQaWs6IiUYT6bTmR8gR/rzEeXS1s/hLIqTVEsjb8usXBmD1PwkzvKC/wd2haMnmcQIaZbnZQGKcc9gJgH1XE2ndT0AkhF/k1maSdlZNG1C+A+Kc2bLG+JpFkezMEAMFkAFtZkjiQyRllmWDCVbrpZUkce62q9Yl3m2QcG2q5WgwqHLiIi7xWq3nwyEIywFXABBR8fH3n7SHI5EBVOyNv73YNxMT2fpG/TU8GxmUTYkXh3Ok90l4KgYWsykW92EZr8nqlpoivZJVWJBOJns91egoYNsH3OfXRgemsnkijoIumpk1AU4nk/TZox6DGpkbNRFYcHxdj4fKvhPgI+eK4T8/ngcj3ck9lwTol0VFAC4zkAzUn6upmLt0e9S61S+lvpv4OygxsLJx8eJnB0AdMclMfpf5OUAAAAASUVORK5CYII=",
+    img: "https://pixelsinfosys.com/wp-content/uploads/2024/03/7553b61a-f22e-4b4a-9c37-2cdba2189a7b.png",
     role: "web Development Intern",
-    company: "Bharat Intern",
-    date: "Sep 2023 - Oct 2023",
-    desc: "Working on Flipr Platforms, managing DevOps, and streamlining the process with automation.",
+    company: "Pixel Infosys",
+    date: "June 2024 - July 2024",
+    desc: "Redesigned a responsive website using React.js, HTML, and CSS, improving UI/UX and reducing bounce rate by 20%. Built backend APIs with Node.js and MongoDB, improving data retrieval efficiency and enhancing user authentication for over 500 users.",
     skills: [
       "HTML",
       "CSS",
       "Javascript",
+      "React", 
+      "Node.js",
+      "MongoDB",
+      "express.js"
     ],
-    doc: "https://drive.google.com/file/d/1pWsbzyg2Z5xmHDrzVJDzmYpLY4jm4haV/view?usp=sharing",
+    doc: "https://drive.google.com/file/d/1RqQ7YmyYNT5Z6a384PnvUsiE3gD7-9hR/view?usp=sharing",
   },
 ];
 
@@ -250,7 +254,7 @@ export const projects = [
     webapp: "https://nike-ecommerce-website.vercel.app/",
   },
   {
-    id: 6,
+    id: 7,
     title: "NetFlix UI CLone",
     date: "Jan 2024",
     description:
@@ -260,6 +264,18 @@ export const projects = [
     category: "web app",
     github: "https://github.com/ZION260122/netflix--clone",
     webapp: "https://netflix-gilt-ten.vercel.app/",
+  },
+  {
+    id: 8,
+    title: "Hotel Booking App",
+    date: "june 2024",
+    description:
+      "Developed a Hotel Room Booking App using MERN technology showcasing my skills in React and API’s development.",
+    image: "MernBooking.png",
+    tags: ["React","MongoDB", "Node.js", "Express.js"],
+    category: "Mern App",
+    github: "https://github.com/ZION260122/Hotel-Booking-site-",
+    webapp: "https://vercel.com/utkarsh-vashishthas-projects/hotel-booking-site",
   },
 ];
 
